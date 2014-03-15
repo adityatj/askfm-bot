@@ -1,5 +1,8 @@
 import threading, time, mechanize, cookielib, random
 
+#Libs needed
+#Mechanize - http://wwwsearch.sourceforge.net/mechanize/
+
 __author__ = 'TJ Aditya'
 __version__ = '0.4'
 
