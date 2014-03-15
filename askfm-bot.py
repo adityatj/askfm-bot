@@ -30,8 +30,8 @@ def new_browser():
     return br
 
 #Globals
-USER = 'bobplease'
-PASS = 'lolwootrofl'
+USER = '<Your ask.fm username>'
+PASS = '<Your ask.fm password>'
 qlog = 'QTHREAD LOG: '
 alog = 'ATHREAD LOG: '
 tab = "\t"
